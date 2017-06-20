@@ -1,0 +1,25 @@
+{
+  "name": "tim-sdk",
+  "version": "1.0.0",
+  "description": "tencent im sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oschao/tim-sdk.git"
+  },
+  "keywords": [
+    "tim-sdk"
+  ],
+  "author": "oschao group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oschao/tim-sdk/issues"
+  },
+  "homepage": "https://github.com/oschao/tim-sdk#readme",
+  "dependencies": {
+    "http": "^0.0.0"
+  }
+}
